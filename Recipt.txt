@@ -1,0 +1,14 @@
+
+
+			 Al-Sufi Vending Machine
+				   Recipt
+Purchases: 
+	1- Fanta: 2 Piece(s)
+	2- CocaCola: 2 Piece(s)
+	3- Americano: 2 Piece(s)
+
+You did deposite: RM200.
+Your remainder Balance: RM176.4.
+
+			  THANK YOU ^_^
+			  See You Soon.
