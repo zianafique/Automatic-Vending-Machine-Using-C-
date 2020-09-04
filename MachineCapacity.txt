@@ -1,0 +1,9 @@
+1 CostaCoffee 20
+2 Starbucks 20
+3 Nescafe 20
+4 Fanta 20
+5 Mocha 20
+6 CocaCola 20
+7 Pepsi 20
+8 Americano 20
+9 Milo 20
